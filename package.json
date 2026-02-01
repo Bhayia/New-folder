@@ -1,0 +1,16 @@
+{
+  "name": "natural-bless-coffee",
+  "version": "1.0.0",
+  "description": "Natural Bless - From Cup to Bean Coffee Expedition",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
