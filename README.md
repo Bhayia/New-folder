@@ -1,4 +1,4 @@
-# Natural Bless - The Coffee Expedition
+# Nature Bliss - The Coffee Expedition
 
 A premium, immersive web experience dedicated to the journey from cup to bean.
 
